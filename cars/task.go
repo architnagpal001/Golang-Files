@@ -47,5 +47,4 @@ func main() {
 	fmt.Println("the production rate per minute is ->", prpm(i))
 	fmt.Println("the artificially limited rate is -->", alp(i, a))
 	}
-
 }
