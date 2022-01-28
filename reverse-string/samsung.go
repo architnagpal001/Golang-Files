@@ -18,6 +18,7 @@ func main() {
 	// strRev := reverse(st)
 	var strRev string
 	fmt.Println(str)
+	//printing the reverse string
 	fmt.Println(strRev)
 
 }
