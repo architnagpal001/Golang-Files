@@ -21,6 +21,7 @@ func successrate(i int) (float64) {
 		return 0.77
 	}
 	return 0
+	//retruning the success rate 
 }
 func prph(i int) float64 {
 	return successrate(i) * float64(i) * pr
